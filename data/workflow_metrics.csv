@@ -1,0 +1,241 @@
+month,business_unit,workflow_name,total_runs,success_rate,avg_runtime_sec,fte_hours_saved,cost_per_run_usd
+2024-01,Finance Automation,Invoice Processing,3012,0.9593,49.3,35.1,0.191
+2024-01,Finance Automation,GL Reconciliation,4648,0.9632,143.0,156.9,0.1766
+2024-01,Finance Automation,Expense Approval,4860,0.9628,66.0,75.7,0.1743
+2024-01,Finance Automation,FP&A Reporting,5375,0.9134,139.4,176.9,0.2246
+2024-01,HR Operations,Onboarding Automation,4352,0.9553,245.2,252.0,0.0844
+2024-01,HR Operations,Payroll Sync,4480,0.9772,45.5,48.1,0.31
+2024-01,HR Operations,Benefits Enrollment,4572,0.9902,51.9,56.0,0.1973
+2024-01,Supply Chain,PO Processing,3978,0.9934,141.6,133.0,0.3336
+2024-01,Supply Chain,Inventory Sync,3136,0.9343,66.5,49.2,0.299
+2024-01,Supply Chain,Vendor Matching,4957,0.9429,149.0,174.4,0.2074
+2024-01,Supply Chain,Shipment Tracking,4833,0.9934,121.2,138.3,0.3214
+2024-01,Customer Service,Ticket Routing,4333,0.975,165.7,169.5,0.3651
+2024-01,Customer Service,Refund Processing,4081,0.9826,129.7,125.0,0.328
+2024-01,Customer Service,SLA Monitoring,4109,0.9859,28.7,27.8,0.3404
+2024-01,IT Infrastructure,Patch Deployment,4556,0.9633,260.3,280.0,0.0465
+2024-01,IT Infrastructure,Access Provisioning,2435,0.9505,196.3,112.9,0.2857
+2024-01,IT Infrastructure,Incident Response,3736,0.9354,108.1,95.4,0.3135
+2024-01,Compliance & Risk,Audit Log Collection,4444,0.9337,68.5,71.9,0.3655
+2024-01,Compliance & Risk,SOC2 Evidence Packaging,4771,0.935,15.8,17.8,0.2909
+2024-01,Compliance & Risk,GDPR Data Mapping,4507,0.9809,210.4,223.9,0.0886
+2024-01,Finance Automation,Invoice Processing,4680,0.966,217.3,240.1,0.3276
+2024-01,Finance Automation,GL Reconciliation,4652,0.9622,35.7,39.2,0.2058
+2024-01,Finance Automation,Expense Approval,4102,0.9446,29.7,28.8,0.1586
+2024-01,Finance Automation,FP&A Reporting,3753,0.9194,228.6,202.6,0.3622
+2024-01,HR Operations,Onboarding Automation,3063,0.9165,146.2,105.7,0.3101
+2024-01,HR Operations,Payroll Sync,4327,0.9701,25.5,26.1,0.0648
+2024-01,HR Operations,Benefits Enrollment,3235,0.9298,87.3,66.7,0.3132
+2024-01,Supply Chain,PO Processing,3742,0.989,120.6,106.6,0.3481
+2024-01,Supply Chain,Inventory Sync,4041,0.9292,183.6,175.2,0.3729
+2024-01,Supply Chain,Vendor Matching,2997,0.9613,107.9,76.4,0.2603
+2024-01,Supply Chain,Shipment Tracking,2388,0.9598,179.4,101.2,0.0644
+2024-01,Customer Service,Ticket Routing,4310,0.968,76.8,78.2,0.2827
+2024-01,Customer Service,Refund Processing,4485,0.957,151.4,160.3,0.0886
+2024-01,Customer Service,SLA Monitoring,4503,0.9759,84.7,90.1,0.2089
+2024-01,IT Infrastructure,Patch Deployment,3783,0.9635,26.6,23.8,0.2945
+2024-01,IT Infrastructure,Access Provisioning,3954,0.937,12.0,11.2,0.2138
+2024-01,IT Infrastructure,Incident Response,4003,0.9813,13.0,12.3,0.1239
+2024-01,Compliance & Risk,Audit Log Collection,4293,0.973,96.8,98.1,0.0746
+2024-01,Compliance & Risk,SOC2 Evidence Packaging,3392,0.9816,96.0,76.9,0.3082
+2024-01,Compliance & Risk,GDPR Data Mapping,3708,0.9858,128.3,112.3,0.3494
+2024-03,Finance Automation,Invoice Processing,4434,0.9176,196.1,205.3,0.2079
+2024-03,Finance Automation,GL Reconciliation,4138,0.943,181.6,177.4,0.2793
+2024-03,Finance Automation,Expense Approval,4779,0.9921,216.0,243.7,0.3633
+2024-03,Finance Automation,FP&A Reporting,4941,0.9697,91.9,107.2,0.0758
+2024-03,HR Operations,Onboarding Automation,4569,0.9141,108.5,117.0,0.3653
+2024-03,HR Operations,Payroll Sync,4922,0.9525,128.0,148.8,0.1956
+2024-03,HR Operations,Benefits Enrollment,3869,0.9414,26.0,23.8,0.301
+2024-03,Supply Chain,PO Processing,3467,0.9454,232.3,190.2,0.3291
+2024-03,Supply Chain,Inventory Sync,4573,0.9501,247.9,267.7,0.1134
+2024-03,Supply Chain,Vendor Matching,3516,0.9676,174.9,145.2,0.1404
+2024-03,Supply Chain,Shipment Tracking,4425,0.9728,96.6,100.9,0.2592
+2024-03,Customer Service,Ticket Routing,3658,0.9436,203.1,175.4,0.1077
+2024-03,Customer Service,Refund Processing,4002,0.9413,27.6,26.1,0.0779
+2024-03,Customer Service,SLA Monitoring,4561,0.9538,83.7,90.1,0.3241
+2024-03,IT Infrastructure,Patch Deployment,4062,0.9519,120.3,115.4,0.2205
+2024-03,IT Infrastructure,Access Provisioning,3603,0.9606,14.7,12.5,0.1978
+2024-03,IT Infrastructure,Incident Response,4213,0.9676,95.6,95.1,0.3032
+2024-03,Compliance & Risk,Audit Log Collection,4528,0.9757,151.7,162.2,0.3718
+2024-03,Compliance & Risk,SOC2 Evidence Packaging,4603,0.9202,83.2,90.4,0.046
+2024-03,Compliance & Risk,GDPR Data Mapping,4555,0.9349,219.2,235.7,0.2161
+2024-03,Finance Automation,Invoice Processing,3456,0.9101,92.3,75.3,0.2598
+2024-03,Finance Automation,GL Reconciliation,3319,0.9928,239.0,187.3,0.048
+2024-03,Finance Automation,Expense Approval,4304,0.9763,134.7,136.9,0.1753
+2024-03,Finance Automation,FP&A Reporting,4346,0.9357,29.6,30.4,0.1176
+2024-03,HR Operations,Onboarding Automation,4138,0.9735,139.0,135.8,0.0597
+2024-03,HR Operations,Payroll Sync,3214,0.9914,264.7,200.9,0.307
+2024-03,HR Operations,Benefits Enrollment,4212,0.9918,32.3,32.1,0.1643
+2024-03,Supply Chain,PO Processing,4338,0.9292,64.5,66.1,0.0879
+2024-03,Supply Chain,Inventory Sync,4968,0.9592,51.4,60.3,0.3158
+2024-03,Supply Chain,Vendor Matching,4534,0.9641,116.0,124.2,0.2692
+2024-03,Supply Chain,Shipment Tracking,3713,0.988,89.9,78.8,0.1998
+2024-03,Customer Service,Ticket Routing,3445,0.9857,201.7,164.1,0.0611
+2024-03,Customer Service,Refund Processing,3698,0.9214,268.7,234.6,0.2201
+2024-03,Customer Service,SLA Monitoring,5453,0.9306,146.2,188.2,0.2711
+2024-03,IT Infrastructure,Patch Deployment,4085,0.9786,135.2,130.4,0.2258
+2024-03,IT Infrastructure,Access Provisioning,3985,0.9468,23.8,22.4,0.0964
+2024-03,IT Infrastructure,Incident Response,3345,0.9142,238.1,188.0,0.3736
+2024-03,Compliance & Risk,Audit Log Collection,4040,0.9774,240.8,229.7,0.1223
+2024-03,Compliance & Risk,SOC2 Evidence Packaging,3241,0.9471,171.1,130.9,0.0648
+2024-03,Compliance & Risk,GDPR Data Mapping,4477,0.9629,275.0,290.7,0.1046
+2024-04,Finance Automation,Invoice Processing,4455,0.9744,55.3,58.2,0.2021
+2024-04,Finance Automation,GL Reconciliation,4211,0.9711,78.3,77.9,0.2578
+2024-04,Finance Automation,Expense Approval,3626,0.958,218.8,187.3,0.2096
+2024-04,Finance Automation,FP&A Reporting,4483,0.911,14.4,15.2,0.1614
+2024-04,HR Operations,Onboarding Automation,3449,0.9373,239.3,194.9,0.2878
+2024-04,HR Operations,Payroll Sync,4562,0.9181,126.9,136.7,0.0499
+2024-04,HR Operations,Benefits Enrollment,5459,0.9201,89.4,115.2,0.1753
+2024-04,Supply Chain,PO Processing,4051,0.9882,278.2,266.1,0.0553
+2024-04,Supply Chain,Inventory Sync,3810,0.9434,214.1,192.6,0.3523
+2024-04,Supply Chain,Vendor Matching,4992,0.9908,166.7,196.5,0.1614
+2024-04,Supply Chain,Shipment Tracking,3789,0.9579,108.1,96.7,0.2633
+2024-04,Customer Service,Ticket Routing,4674,0.9304,63.3,69.9,0.3522
+2024-04,Customer Service,Refund Processing,4208,0.9288,22.4,22.3,0.0522
+2024-04,Customer Service,SLA Monitoring,3627,0.9249,244.3,209.2,0.136
+2024-04,IT Infrastructure,Patch Deployment,4263,0.9471,167.5,168.6,0.2157
+2024-04,IT Infrastructure,Access Provisioning,4550,0.9745,87.7,94.2,0.16
+2024-04,IT Infrastructure,Incident Response,4086,0.9763,139.7,134.8,0.2092
+2024-04,Compliance & Risk,Audit Log Collection,4752,0.9274,170.4,191.2,0.1033
+2024-04,Compliance & Risk,SOC2 Evidence Packaging,4732,0.9276,31.1,34.7,0.0635
+2024-04,Compliance & Risk,GDPR Data Mapping,3947,0.99,147.9,137.8,0.1792
+2024-05,Finance Automation,Invoice Processing,4462,0.9382,197.9,208.5,0.3022
+2024-05,Finance Automation,GL Reconciliation,4442,0.9656,52.6,55.2,0.3378
+2024-05,Finance Automation,Expense Approval,3132,0.9461,22.1,16.3,0.0835
+2024-05,Finance Automation,FP&A Reporting,4391,0.9751,12.0,12.4,0.1816
+2024-05,HR Operations,Onboarding Automation,3794,0.9927,72.6,65.0,0.1434
+2024-05,HR Operations,Payroll Sync,4220,0.9358,73.8,73.5,0.0405
+2024-05,HR Operations,Benefits Enrollment,4607,0.9731,239.4,260.4,0.1837
+2024-05,Supply Chain,PO Processing,3510,0.9357,99.2,82.2,0.2823
+2024-05,Supply Chain,Inventory Sync,3921,0.9415,253.7,234.9,0.3143
+2024-05,Supply Chain,Vendor Matching,4477,0.9937,214.1,226.3,0.1737
+2024-05,Supply Chain,Shipment Tracking,5243,0.9167,157.9,195.5,0.2812
+2024-05,Customer Service,Ticket Routing,4787,0.9242,221.2,250.0,0.2385
+2024-05,Customer Service,Refund Processing,4590,0.9352,203.5,220.5,0.2981
+2024-05,Customer Service,SLA Monitoring,3298,0.9187,149.7,116.6,0.213
+2024-05,IT Infrastructure,Patch Deployment,4564,0.9803,198.9,214.3,0.2829
+2024-05,IT Infrastructure,Access Provisioning,4090,0.9492,258.8,249.9,0.2762
+2024-05,IT Infrastructure,Incident Response,4599,0.9333,228.3,247.9,0.1064
+2024-05,Compliance & Risk,Audit Log Collection,4452,0.9394,101.9,107.1,0.3727
+2024-05,Compliance & Risk,SOC2 Evidence Packaging,4463,0.9718,162.6,171.3,0.362
+2024-05,Compliance & Risk,GDPR Data Mapping,4667,0.9522,114.0,125.6,0.0954
+2024-06,Finance Automation,Invoice Processing,4617,0.9427,18.8,20.5,0.3253
+2024-06,Finance Automation,GL Reconciliation,4709,0.911,200.6,223.0,0.3699
+2024-06,Finance Automation,Expense Approval,3289,0.9699,231.0,179.4,0.2258
+2024-06,Finance Automation,FP&A Reporting,3985,0.9922,25.8,24.3,0.2116
+2024-06,HR Operations,Onboarding Automation,4619,0.9252,226.4,246.9,0.2279
+2024-06,HR Operations,Payroll Sync,4452,0.9437,47.3,49.7,0.3342
+2024-06,HR Operations,Benefits Enrollment,3912,0.9347,245.5,226.8,0.2687
+2024-06,Supply Chain,PO Processing,3682,0.9777,79.1,68.8,0.2525
+2024-06,Supply Chain,Inventory Sync,4927,0.987,15.3,17.8,0.2692
+2024-06,Supply Chain,Vendor Matching,4356,0.9144,159.1,163.6,0.1378
+2024-06,Supply Chain,Shipment Tracking,3582,0.9628,101.5,85.8,0.2891
+2024-06,Customer Service,Ticket Routing,3388,0.9444,30.3,24.2,0.3065
+2024-06,Customer Service,Refund Processing,3878,0.9683,101.1,92.6,0.0592
+2024-06,Customer Service,SLA Monitoring,3175,0.9418,265.1,198.7,0.2582
+2024-06,IT Infrastructure,Patch Deployment,4870,0.9269,124.1,142.7,0.2953
+2024-06,IT Infrastructure,Access Provisioning,5069,0.9186,86.5,103.5,0.1339
+2024-06,IT Infrastructure,Incident Response,4406,0.9157,151.0,157.1,0.101
+2024-06,Compliance & Risk,Audit Log Collection,4170,0.9925,42.4,41.7,0.1772
+2024-06,Compliance & Risk,SOC2 Evidence Packaging,4734,0.9459,104.9,117.3,0.1752
+2024-06,Compliance & Risk,GDPR Data Mapping,4821,0.9325,67.0,76.3,0.2042
+2024-07,Finance Automation,Invoice Processing,3646,0.9658,271.6,233.8,0.2452
+2024-07,Finance Automation,GL Reconciliation,3597,0.9165,32.3,27.4,0.3635
+2024-07,Finance Automation,Expense Approval,3871,0.9609,179.1,163.7,0.2605
+2024-07,Finance Automation,FP&A Reporting,4037,0.9327,16.0,15.3,0.3681
+2024-07,HR Operations,Onboarding Automation,4686,0.9701,175.5,194.2,0.1464
+2024-07,HR Operations,Payroll Sync,3511,0.933,172.2,142.8,0.3345
+2024-07,HR Operations,Benefits Enrollment,4530,0.9272,169.5,181.3,0.2784
+2024-07,Supply Chain,PO Processing,4404,0.9678,121.4,126.2,0.0452
+2024-07,Supply Chain,Inventory Sync,3281,0.9483,268.6,208.1,0.1757
+2024-07,Supply Chain,Vendor Matching,4508,0.9814,62.5,66.5,0.2686
+2024-07,Supply Chain,Shipment Tracking,4185,0.9179,212.6,210.1,0.3509
+2024-07,Customer Service,Ticket Routing,4095,0.9469,81.3,78.6,0.1877
+2024-07,Customer Service,Refund Processing,5249,0.9642,76.9,95.3,0.2828
+2024-07,Customer Service,SLA Monitoring,5028,0.9178,65.4,77.6,0.3383
+2024-07,IT Infrastructure,Patch Deployment,3729,0.933,78.3,68.9,0.0613
+2024-07,IT Infrastructure,Access Provisioning,3785,0.949,208.4,186.2,0.2463
+2024-07,IT Infrastructure,Incident Response,3851,0.9909,236.7,215.2,0.3137
+2024-07,Compliance & Risk,Audit Log Collection,4343,0.98,262.0,268.7,0.225
+2024-07,Compliance & Risk,SOC2 Evidence Packaging,4489,0.9731,209.8,222.4,0.2173
+2024-07,Compliance & Risk,GDPR Data Mapping,3457,0.9158,111.5,91.0,0.3531
+2024-08,Finance Automation,Invoice Processing,4843,0.9329,110.7,126.6,0.3444
+2024-08,Finance Automation,GL Reconciliation,5618,0.9666,223.0,295.8,0.1945
+2024-08,Finance Automation,Expense Approval,3396,0.97,126.6,101.5,0.1905
+2024-08,Finance Automation,FP&A Reporting,4615,0.9652,262.9,286.5,0.0618
+2024-08,HR Operations,Onboarding Automation,3870,0.9477,17.9,16.4,0.1424
+2024-08,HR Operations,Payroll Sync,4715,0.9527,27.1,30.2,0.207
+2024-08,HR Operations,Benefits Enrollment,3904,0.9657,81.7,75.3,0.0942
+2024-08,Supply Chain,PO Processing,5066,0.9236,30.9,37.0,0.1031
+2024-08,Supply Chain,Inventory Sync,4674,0.9792,195.6,215.9,0.0775
+2024-08,Supply Chain,Vendor Matching,4404,0.9346,95.0,98.8,0.125
+2024-08,Supply Chain,Shipment Tracking,5969,0.9403,106.8,150.5,0.3217
+2024-08,Customer Service,Ticket Routing,4946,0.9771,94.5,110.4,0.3507
+2024-08,Customer Service,Refund Processing,4124,0.9401,147.5,143.6,0.36
+2024-08,Customer Service,SLA Monitoring,4396,0.9845,39.5,41.0,0.1735
+2024-08,IT Infrastructure,Patch Deployment,4305,0.9265,242.2,246.2,0.2702
+2024-08,IT Infrastructure,Access Provisioning,5991,0.9812,242.1,342.5,0.2944
+2024-08,IT Infrastructure,Incident Response,5433,0.9236,192.5,246.9,0.1009
+2024-08,Compliance & Risk,Audit Log Collection,3521,0.969,73.5,61.1,0.08
+2024-08,Compliance & Risk,SOC2 Evidence Packaging,4785,0.9538,55.2,62.4,0.0684
+2024-08,Compliance & Risk,GDPR Data Mapping,4751,0.9116,56.4,63.3,0.3429
+2024-09,Finance Automation,Invoice Processing,3774,0.919,71.6,63.8,0.2165
+2024-09,Finance Automation,GL Reconciliation,3444,0.9617,77.8,63.3,0.0596
+2024-09,Finance Automation,Expense Approval,3373,0.9287,269.2,214.4,0.2495
+2024-09,Finance Automation,FP&A Reporting,3861,0.9573,123.4,112.5,0.1858
+2024-09,HR Operations,Onboarding Automation,5322,0.9697,58.0,72.9,0.21
+2024-09,HR Operations,Payroll Sync,4433,0.945,245.3,256.8,0.2547
+2024-09,HR Operations,Benefits Enrollment,3591,0.9615,43.4,36.8,0.1547
+2024-09,Supply Chain,PO Processing,4251,0.9221,197.5,198.2,0.1101
+2024-09,Supply Chain,Inventory Sync,4715,0.9274,148.1,164.9,0.1826
+2024-09,Supply Chain,Vendor Matching,4059,0.9115,224.5,215.2,0.0635
+2024-09,Supply Chain,Shipment Tracking,5772,0.9634,196.6,267.9,0.1261
+2024-09,Customer Service,Ticket Routing,3532,0.9108,205.9,171.7,0.2221
+2024-09,Customer Service,Refund Processing,4423,0.9817,142.0,148.3,0.1534
+2024-09,Customer Service,SLA Monitoring,4433,0.9773,132.9,139.1,0.1024
+2024-09,IT Infrastructure,Patch Deployment,3719,0.943,227.3,199.6,0.3466
+2024-09,IT Infrastructure,Access Provisioning,4161,0.9273,29.9,29.4,0.3383
+2024-09,IT Infrastructure,Incident Response,4709,0.9923,29.8,33.1,0.2604
+2024-09,Compliance & Risk,Audit Log Collection,2851,0.9163,112.6,75.8,0.3133
+2024-09,Compliance & Risk,SOC2 Evidence Packaging,3074,0.9287,105.9,76.9,0.1667
+2024-09,Compliance & Risk,GDPR Data Mapping,4571,0.9158,111.0,119.8,0.1978
+2024-10,Finance Automation,Invoice Processing,4738,0.9702,14.2,15.9,0.114
+2024-10,Finance Automation,GL Reconciliation,4964,0.9662,141.7,166.1,0.0418
+2024-10,Finance Automation,Expense Approval,4559,0.9566,29.8,32.1,0.3006
+2024-10,Finance Automation,FP&A Reporting,4601,0.9596,221.6,240.7,0.2956
+2024-10,HR Operations,Onboarding Automation,4250,0.9219,191.9,192.6,0.251
+2024-10,HR Operations,Payroll Sync,5046,0.9731,57.5,68.5,0.1063
+2024-10,HR Operations,Benefits Enrollment,4377,0.9872,215.3,222.5,0.243
+2024-10,Supply Chain,PO Processing,4477,0.9656,250.3,264.6,0.2368
+2024-10,Supply Chain,Inventory Sync,3580,0.9503,204.0,172.4,0.1321
+2024-10,Supply Chain,Vendor Matching,4438,0.9272,96.1,100.7,0.1221
+2024-10,Supply Chain,Shipment Tracking,3977,0.9872,147.9,138.9,0.1039
+2024-10,Customer Service,Ticket Routing,3356,0.9165,198.6,157.4,0.1702
+2024-10,Customer Service,Refund Processing,4506,0.9777,84.9,90.3,0.2754
+2024-10,Customer Service,SLA Monitoring,4818,0.9324,263.7,300.0,0.2564
+2024-10,IT Infrastructure,Patch Deployment,3494,0.9262,198.2,163.5,0.1144
+2024-10,IT Infrastructure,Access Provisioning,3662,0.9606,82.9,71.7,0.2651
+2024-10,IT Infrastructure,Incident Response,4531,0.9747,62.3,66.6,0.0701
+2024-10,Compliance & Risk,Audit Log Collection,4575,0.9694,110.7,119.6,0.187
+2024-10,Compliance & Risk,SOC2 Evidence Packaging,4409,0.9133,190.7,198.5,0.1498
+2024-10,Compliance & Risk,GDPR Data Mapping,3261,0.9863,250.0,192.5,0.1506
+2024-11,Finance Automation,Invoice Processing,4401,0.9312,166.6,173.1,0.0629
+2024-11,Finance Automation,GL Reconciliation,4389,0.9181,279.7,289.9,0.1511
+2024-11,Finance Automation,Expense Approval,4654,0.9829,279.4,307.0,0.1221
+2024-11,Finance Automation,FP&A Reporting,4567,0.9134,122.2,131.8,0.0842
+2024-11,HR Operations,Onboarding Automation,4176,0.9766,163.7,161.4,0.1463
+2024-11,HR Operations,Payroll Sync,4119,0.9656,74.2,72.2,0.0449
+2024-11,HR Operations,Benefits Enrollment,4573,0.9748,22.4,24.2,0.3246
+2024-11,Supply Chain,PO Processing,4997,0.9627,163.0,192.3,0.2524
+2024-11,Supply Chain,Inventory Sync,4349,0.9594,277.5,285.0,0.2973
+2024-11,Supply Chain,Vendor Matching,4827,0.9476,201.6,229.8,0.1723
+2024-11,Supply Chain,Shipment Tracking,4499,0.9889,261.0,277.3,0.1562
+2024-11,Customer Service,Ticket Routing,3360,0.9549,68.7,54.5,0.3785
+2024-11,Customer Service,Refund Processing,4575,0.9604,26.3,28.4,0.1946
+2024-11,Customer Service,SLA Monitoring,4731,0.9674,193.6,216.3,0.1669
+2024-11,IT Infrastructure,Patch Deployment,5377,0.9693,185.8,235.9,0.1336
+2024-11,IT Infrastructure,Access Provisioning,4202,0.9233,182.4,181.0,0.2438
+2024-11,IT Infrastructure,Incident Response,4537,0.9487,191.0,204.6,0.3247
+2024-11,Compliance & Risk,Audit Log Collection,3672,0.9244,17.1,14.8,0.3049
+2024-11,Compliance & Risk,SOC2 Evidence Packaging,5132,0.9812,227.2,275.3,0.3667
+2024-11,Compliance & Risk,GDPR Data Mapping,4712,0.9556,142.9,159.0,0.1766

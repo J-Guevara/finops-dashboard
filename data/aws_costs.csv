@@ -1,0 +1,577 @@
+month,business_unit,aws_service,total_cost_usd,waste_amount_usd,optimized_cost,region,environment
+2024-01,Finance Automation,EC2 Compute,1281.14,374.09,907.05,us-east-1,production
+2024-01,Finance Automation,EKS Cluster,853.6,86.21,767.39,us-west-2,staging
+2024-01,Finance Automation,RDS Database,567.67,32.36,535.31,eu-west-1,staging
+2024-01,Finance Automation,S3 Storage,180.26,21.63,158.63,us-west-2,production
+2024-01,Finance Automation,Lambda,100.96,19.49,81.47,us-west-2,production
+2024-01,Finance Automation,Data Transfer,95.83,9.2,86.63,us-west-2,production
+2024-01,Finance Automation,CloudWatch,57.88,6.71,51.17,us-west-2,production
+2024-01,Finance Automation,Load Balancer,76.81,4.99,71.82,us-east-1,production
+2024-01,HR Operations,EC2 Compute,449.51,124.06,325.45,us-west-2,production
+2024-01,HR Operations,EKS Cluster,358.98,76.46,282.52,us-west-2,dev
+2024-01,HR Operations,RDS Database,230.21,35.22,194.99,us-west-2,production
+2024-01,HR Operations,S3 Storage,69.86,7.75,62.11,eu-west-1,staging
+2024-01,HR Operations,Lambda,48.33,3.82,44.51,us-west-2,production
+2024-01,HR Operations,Data Transfer,59.08,9.28,49.8,us-west-2,production
+2024-01,HR Operations,CloudWatch,22.17,3.17,19.0,us-west-2,production
+2024-01,HR Operations,Load Balancer,36.8,11.59,25.21,us-west-2,dev
+2024-01,Supply Chain,EC2 Compute,811.41,42.19,769.22,us-east-1,staging
+2024-01,Supply Chain,EKS Cluster,732.06,213.03,519.03,us-east-1,production
+2024-01,Supply Chain,RDS Database,369.41,123.75,245.66,us-east-1,production
+2024-01,Supply Chain,S3 Storage,134.29,9.53,124.76,us-west-2,production
+2024-01,Supply Chain,Lambda,89.99,30.87,59.12,us-west-2,production
+2024-01,Supply Chain,Data Transfer,127.08,36.22,90.86,us-east-1,production
+2024-01,Supply Chain,CloudWatch,41.71,9.3,32.41,us-west-2,production
+2024-01,Supply Chain,Load Balancer,70.27,6.04,64.23,us-west-2,production
+2024-01,Customer Service,EC2 Compute,768.49,268.2,500.29,us-west-2,production
+2024-01,Customer Service,EKS Cluster,424.91,127.05,297.86,us-west-2,production
+2024-01,Customer Service,RDS Database,303.04,108.19,194.85,us-east-1,production
+2024-01,Customer Service,S3 Storage,108.8,36.77,72.03,us-east-1,production
+2024-01,Customer Service,Lambda,62.69,19.81,42.88,us-east-1,production
+2024-01,Customer Service,Data Transfer,98.95,8.51,90.44,us-west-2,production
+2024-01,Customer Service,CloudWatch,34.81,1.81,33.0,us-west-2,production
+2024-01,Customer Service,Load Balancer,51.58,6.34,45.24,us-west-2,production
+2024-01,IT Infrastructure,EC2 Compute,407.81,90.13,317.68,us-east-1,production
+2024-01,IT Infrastructure,EKS Cluster,325.03,120.59,204.44,eu-west-1,production
+2024-01,IT Infrastructure,RDS Database,152.37,21.94,130.43,us-west-2,production
+2024-01,IT Infrastructure,S3 Storage,61.92,13.37,48.55,us-west-2,production
+2024-01,IT Infrastructure,Lambda,32.36,3.17,29.19,us-west-2,dev
+2024-01,IT Infrastructure,Data Transfer,50.17,6.52,43.65,us-east-1,staging
+2024-01,IT Infrastructure,CloudWatch,19.9,3.4,16.5,us-east-1,production
+2024-01,IT Infrastructure,Load Balancer,25.71,5.84,19.87,us-west-2,staging
+2024-01,Compliance & Risk,EC2 Compute,345.12,21.74,323.38,us-east-1,production
+2024-01,Compliance & Risk,EKS Cluster,288.93,15.89,273.04,us-west-2,production
+2024-01,Compliance & Risk,RDS Database,164.7,45.79,118.91,us-west-2,dev
+2024-01,Compliance & Risk,S3 Storage,63.47,6.03,57.44,us-west-2,production
+2024-01,Compliance & Risk,Lambda,40.91,13.09,27.82,us-east-1,production
+2024-01,Compliance & Risk,Data Transfer,39.14,5.09,34.05,us-west-2,staging
+2024-01,Compliance & Risk,CloudWatch,19.3,3.13,16.17,us-west-2,staging
+2024-01,Compliance & Risk,Load Balancer,29.97,10.37,19.6,us-east-1,staging
+2024-01,Finance Automation,EC2 Compute,1052.69,108.43,944.26,us-east-1,production
+2024-01,Finance Automation,EKS Cluster,910.04,48.23,861.81,us-west-2,production
+2024-01,Finance Automation,RDS Database,590.81,156.56,434.25,us-west-2,staging
+2024-01,Finance Automation,S3 Storage,181.27,23.2,158.07,us-west-2,staging
+2024-01,Finance Automation,Lambda,120.49,32.17,88.32,us-east-1,production
+2024-01,Finance Automation,Data Transfer,145.58,24.89,120.69,us-west-2,production
+2024-01,Finance Automation,CloudWatch,54.01,18.58,35.43,us-east-1,staging
+2024-01,Finance Automation,Load Balancer,82.42,17.8,64.62,us-east-1,production
+2024-01,HR Operations,EC2 Compute,571.98,81.79,490.19,us-west-2,production
+2024-01,HR Operations,EKS Cluster,340.41,36.76,303.65,eu-west-1,dev
+2024-01,HR Operations,RDS Database,216.38,11.9,204.48,eu-west-1,production
+2024-01,HR Operations,S3 Storage,78.6,29.0,49.6,eu-west-1,staging
+2024-01,HR Operations,Lambda,32.81,10.86,21.95,us-west-2,production
+2024-01,HR Operations,Data Transfer,45.4,10.62,34.78,eu-west-1,production
+2024-01,HR Operations,CloudWatch,22.02,5.57,16.45,eu-west-1,production
+2024-01,HR Operations,Load Balancer,34.75,7.68,27.07,us-east-1,staging
+2024-01,Supply Chain,EC2 Compute,1126.22,190.33,935.89,us-west-2,staging
+2024-01,Supply Chain,EKS Cluster,783.61,248.4,535.21,us-east-1,dev
+2024-01,Supply Chain,RDS Database,420.56,131.64,288.92,us-east-1,staging
+2024-01,Supply Chain,S3 Storage,165.93,51.94,113.99,us-east-1,production
+2024-01,Supply Chain,Lambda,61.56,14.84,46.72,us-west-2,production
+2024-01,Supply Chain,Data Transfer,103.89,23.79,80.1,us-west-2,production
+2024-01,Supply Chain,CloudWatch,41.43,3.81,37.62,us-west-2,staging
+2024-01,Supply Chain,Load Balancer,68.99,8.35,60.64,us-east-1,production
+2024-01,Customer Service,EC2 Compute,777.45,177.26,600.19,us-east-1,staging
+2024-01,Customer Service,EKS Cluster,524.66,195.17,329.49,us-west-2,production
+2024-01,Customer Service,RDS Database,312.98,61.03,251.95,us-west-2,production
+2024-01,Customer Service,S3 Storage,118.68,43.67,75.01,us-east-1,production
+2024-01,Customer Service,Lambda,43.69,4.46,39.23,us-west-2,production
+2024-01,Customer Service,Data Transfer,83.71,23.94,59.77,us-east-1,production
+2024-01,Customer Service,CloudWatch,39.33,7.39,31.94,us-west-2,production
+2024-01,Customer Service,Load Balancer,56.18,16.85,39.33,us-west-2,production
+2024-01,IT Infrastructure,EC2 Compute,462.62,95.3,367.32,us-west-2,production
+2024-01,IT Infrastructure,EKS Cluster,345.59,71.19,274.4,us-west-2,production
+2024-01,IT Infrastructure,RDS Database,207.58,53.97,153.61,us-west-2,production
+2024-01,IT Infrastructure,S3 Storage,58.72,15.09,43.63,us-west-2,staging
+2024-01,IT Infrastructure,Lambda,26.17,1.91,24.26,us-east-1,production
+2024-01,IT Infrastructure,Data Transfer,52.35,12.72,39.63,eu-west-1,production
+2024-01,IT Infrastructure,CloudWatch,21.22,4.27,16.95,us-west-2,dev
+2024-01,IT Infrastructure,Load Balancer,25.38,4.49,20.89,eu-west-1,dev
+2024-01,Compliance & Risk,EC2 Compute,450.07,32.86,417.21,us-west-2,staging
+2024-01,Compliance & Risk,EKS Cluster,292.57,16.97,275.6,us-east-1,production
+2024-01,Compliance & Risk,RDS Database,188.84,48.72,140.12,us-east-1,staging
+2024-01,Compliance & Risk,S3 Storage,61.05,19.23,41.82,us-west-2,production
+2024-01,Compliance & Risk,Lambda,41.16,15.52,25.64,us-west-2,production
+2024-01,Compliance & Risk,Data Transfer,53.44,16.35,37.09,us-west-2,dev
+2024-01,Compliance & Risk,CloudWatch,19.13,5.7,13.43,us-east-1,production
+2024-01,Compliance & Risk,Load Balancer,31.38,10.92,20.46,us-west-2,staging
+2024-03,Finance Automation,EC2 Compute,1373.17,244.42,1128.75,us-west-2,dev
+2024-03,Finance Automation,EKS Cluster,869.11,69.53,799.58,us-west-2,dev
+2024-03,Finance Automation,RDS Database,528.23,136.81,391.42,us-west-2,production
+2024-03,Finance Automation,S3 Storage,185.92,29.38,156.54,us-east-1,staging
+2024-03,Finance Automation,Lambda,114.46,9.16,105.3,us-west-2,production
+2024-03,Finance Automation,Data Transfer,152.95,35.33,117.62,us-west-2,staging
+2024-03,Finance Automation,CloudWatch,52.59,5.1,47.49,us-east-1,production
+2024-03,Finance Automation,Load Balancer,79.18,6.57,72.61,us-west-2,staging
+2024-03,HR Operations,EC2 Compute,479.72,37.42,442.3,eu-west-1,production
+2024-03,HR Operations,EKS Cluster,397.65,68.4,329.25,us-east-1,dev
+2024-03,HR Operations,RDS Database,211.73,64.79,146.94,us-east-1,production
+2024-03,HR Operations,S3 Storage,76.55,26.72,49.83,us-west-2,production
+2024-03,HR Operations,Lambda,42.24,2.91,39.33,us-west-2,production
+2024-03,HR Operations,Data Transfer,57.31,15.13,42.18,us-east-1,production
+2024-03,HR Operations,CloudWatch,23.56,3.39,20.17,us-east-1,production
+2024-03,HR Operations,Load Balancer,36.21,13.33,22.88,us-west-2,dev
+2024-03,Supply Chain,EC2 Compute,999.72,73.98,925.74,us-east-1,dev
+2024-03,Supply Chain,EKS Cluster,710.35,158.41,551.94,us-east-1,production
+2024-03,Supply Chain,RDS Database,482.78,117.32,365.46,eu-west-1,production
+2024-03,Supply Chain,S3 Storage,136.41,19.51,116.9,eu-west-1,staging
+2024-03,Supply Chain,Lambda,120.38,17.09,103.29,us-west-2,production
+2024-03,Supply Chain,Data Transfer,96.51,16.12,80.39,us-east-1,production
+2024-03,Supply Chain,CloudWatch,44.36,6.74,37.62,us-east-1,production
+2024-03,Supply Chain,Load Balancer,74.88,7.79,67.09,eu-west-1,staging
+2024-03,Customer Service,EC2 Compute,599.4,214.59,384.81,us-east-1,production
+2024-03,Customer Service,EKS Cluster,707.86,41.76,666.1,us-west-2,staging
+2024-03,Customer Service,RDS Database,290.78,107.59,183.19,us-east-1,staging
+2024-03,Customer Service,S3 Storage,123.92,25.4,98.52,us-west-2,production
+2024-03,Customer Service,Lambda,63.73,19.37,44.36,eu-west-1,staging
+2024-03,Customer Service,Data Transfer,90.49,11.94,78.55,us-west-2,production
+2024-03,Customer Service,CloudWatch,35.82,4.48,31.34,us-east-1,production
+2024-03,Customer Service,Load Balancer,54.84,9.21,45.63,us-west-2,production
+2024-03,IT Infrastructure,EC2 Compute,558.76,124.04,434.72,us-east-1,production
+2024-03,IT Infrastructure,EKS Cluster,326.88,76.82,250.06,us-east-1,production
+2024-03,IT Infrastructure,RDS Database,196.87,55.52,141.35,us-west-2,production
+2024-03,IT Infrastructure,S3 Storage,68.89,3.79,65.1,us-west-2,production
+2024-03,IT Infrastructure,Lambda,24.9,8.67,16.23,us-west-2,production
+2024-03,IT Infrastructure,Data Transfer,34.65,10.71,23.94,us-west-2,production
+2024-03,IT Infrastructure,CloudWatch,17.74,3.58,14.16,eu-west-1,production
+2024-03,IT Infrastructure,Load Balancer,28.97,4.58,24.39,us-east-1,production
+2024-03,Compliance & Risk,EC2 Compute,465.62,51.22,414.4,us-west-2,staging
+2024-03,Compliance & Risk,EKS Cluster,286.04,58.92,227.12,us-east-1,production
+2024-03,Compliance & Risk,RDS Database,179.26,19.36,159.9,us-west-2,production
+2024-03,Compliance & Risk,S3 Storage,61.92,12.51,49.41,us-west-2,production
+2024-03,Compliance & Risk,Lambda,52.73,3.32,49.41,us-east-1,production
+2024-03,Compliance & Risk,Data Transfer,50.18,3.86,46.32,us-east-1,dev
+2024-03,Compliance & Risk,CloudWatch,19.63,6.2,13.43,us-east-1,production
+2024-03,Compliance & Risk,Load Balancer,28.54,3.4,25.14,us-west-2,production
+2024-03,Finance Automation,EC2 Compute,906.58,184.04,722.54,us-east-1,production
+2024-03,Finance Automation,EKS Cluster,1071.0,142.44,928.56,us-east-1,staging
+2024-03,Finance Automation,RDS Database,665.83,56.6,609.23,us-west-2,production
+2024-03,Finance Automation,S3 Storage,194.32,25.26,169.06,us-west-2,production
+2024-03,Finance Automation,Lambda,84.6,7.61,76.99,us-east-1,production
+2024-03,Finance Automation,Data Transfer,119.35,32.7,86.65,us-east-1,production
+2024-03,Finance Automation,CloudWatch,56.65,13.82,42.83,us-east-1,production
+2024-03,Finance Automation,Load Balancer,76.66,7.05,69.61,us-west-2,production
+2024-03,HR Operations,EC2 Compute,623.3,104.71,518.59,eu-west-1,production
+2024-03,HR Operations,EKS Cluster,484.67,62.04,422.63,us-west-2,production
+2024-03,HR Operations,RDS Database,217.04,24.31,192.73,us-west-2,production
+2024-03,HR Operations,S3 Storage,76.94,26.62,50.32,us-west-2,production
+2024-03,HR Operations,Lambda,46.17,4.02,42.15,us-west-2,dev
+2024-03,HR Operations,Data Transfer,60.6,20.36,40.24,us-east-1,production
+2024-03,HR Operations,CloudWatch,24.89,8.89,16.0,us-east-1,production
+2024-03,HR Operations,Load Balancer,32.48,4.61,27.87,us-east-1,production
+2024-03,Supply Chain,EC2 Compute,844.88,184.18,660.7,us-west-2,production
+2024-03,Supply Chain,EKS Cluster,566.35,142.72,423.63,us-west-2,production
+2024-03,Supply Chain,RDS Database,417.54,94.36,323.18,us-west-2,production
+2024-03,Supply Chain,S3 Storage,135.83,12.77,123.06,us-west-2,dev
+2024-03,Supply Chain,Lambda,99.23,13.3,85.93,us-east-1,staging
+2024-03,Supply Chain,Data Transfer,102.25,25.26,76.99,us-west-2,production
+2024-03,Supply Chain,CloudWatch,45.84,14.85,30.99,eu-west-1,production
+2024-03,Supply Chain,Load Balancer,64.1,18.65,45.45,eu-west-1,production
+2024-03,Customer Service,EC2 Compute,813.85,195.32,618.53,us-east-1,production
+2024-03,Customer Service,EKS Cluster,580.43,181.09,399.34,us-west-2,production
+2024-03,Customer Service,RDS Database,354.28,95.66,258.62,us-west-2,production
+2024-03,Customer Service,S3 Storage,115.81,39.26,76.55,us-west-2,staging
+2024-03,Customer Service,Lambda,31.82,6.46,25.36,us-west-2,staging
+2024-03,Customer Service,Data Transfer,77.74,16.79,60.95,us-west-2,staging
+2024-03,Customer Service,CloudWatch,38.06,13.28,24.78,us-east-1,production
+2024-03,Customer Service,Load Balancer,42.79,15.4,27.39,us-east-1,production
+2024-03,IT Infrastructure,EC2 Compute,472.33,120.44,351.89,us-west-2,staging
+2024-03,IT Infrastructure,EKS Cluster,312.22,96.79,215.43,us-west-2,production
+2024-03,IT Infrastructure,RDS Database,203.47,12.41,191.06,us-east-1,staging
+2024-03,IT Infrastructure,S3 Storage,62.91,21.33,41.58,us-west-2,staging
+2024-03,IT Infrastructure,Lambda,33.61,10.52,23.09,us-west-2,production
+2024-03,IT Infrastructure,Data Transfer,43.41,12.5,30.91,us-east-1,production
+2024-03,IT Infrastructure,CloudWatch,20.64,2.75,17.89,us-west-2,production
+2024-03,IT Infrastructure,Load Balancer,34.69,12.14,22.55,us-east-1,production
+2024-03,Compliance & Risk,EC2 Compute,497.64,50.26,447.38,us-east-1,production
+2024-03,Compliance & Risk,EKS Cluster,326.41,82.26,244.15,us-west-2,staging
+2024-03,Compliance & Risk,RDS Database,192.47,53.89,138.58,eu-west-1,staging
+2024-03,Compliance & Risk,S3 Storage,68.1,6.81,61.29,us-east-1,production
+2024-03,Compliance & Risk,Lambda,50.39,18.04,32.35,eu-west-1,production
+2024-03,Compliance & Risk,Data Transfer,46.98,4.09,42.89,eu-west-1,staging
+2024-03,Compliance & Risk,CloudWatch,20.21,4.95,15.26,us-west-2,production
+2024-03,Compliance & Risk,Load Balancer,32.6,5.25,27.35,us-east-1,production
+2024-04,Finance Automation,EC2 Compute,1038.7,235.78,802.92,eu-west-1,production
+2024-04,Finance Automation,EKS Cluster,751.28,123.21,628.07,us-east-1,production
+2024-04,Finance Automation,RDS Database,533.02,51.17,481.85,us-west-2,production
+2024-04,Finance Automation,S3 Storage,173.4,32.6,140.8,eu-west-1,production
+2024-04,Finance Automation,Lambda,150.34,8.12,142.22,us-east-1,production
+2024-04,Finance Automation,Data Transfer,169.68,62.27,107.41,us-west-2,production
+2024-04,Finance Automation,CloudWatch,66.33,4.78,61.55,us-east-1,production
+2024-04,Finance Automation,Load Balancer,85.12,29.45,55.67,us-west-2,production
+2024-04,HR Operations,EC2 Compute,541.11,127.7,413.41,us-west-2,staging
+2024-04,HR Operations,EKS Cluster,375.56,75.11,300.45,us-west-2,production
+2024-04,HR Operations,RDS Database,256.53,25.91,230.62,us-west-2,staging
+2024-04,HR Operations,S3 Storage,72.02,26.07,45.95,us-west-2,production
+2024-04,HR Operations,Lambda,31.83,1.85,29.98,us-west-2,staging
+2024-04,HR Operations,Data Transfer,78.56,20.98,57.58,us-west-2,production
+2024-04,HR Operations,CloudWatch,25.69,1.46,24.23,us-west-2,staging
+2024-04,HR Operations,Load Balancer,32.6,3.55,29.05,us-east-1,production
+2024-04,Supply Chain,EC2 Compute,954.75,274.97,679.78,us-east-1,staging
+2024-04,Supply Chain,EKS Cluster,703.43,127.32,576.11,us-east-1,production
+2024-04,Supply Chain,RDS Database,447.97,24.19,423.78,us-west-2,production
+2024-04,Supply Chain,S3 Storage,145.03,8.56,136.47,us-west-2,production
+2024-04,Supply Chain,Lambda,99.45,31.82,67.63,us-west-2,production
+2024-04,Supply Chain,Data Transfer,110.88,19.4,91.48,us-east-1,production
+2024-04,Supply Chain,CloudWatch,41.68,9.67,32.01,us-west-2,production
+2024-04,Supply Chain,Load Balancer,77.03,27.96,49.07,us-east-1,production
+2024-04,Customer Service,EC2 Compute,810.95,279.78,531.17,us-east-1,production
+2024-04,Customer Service,EKS Cluster,682.43,38.9,643.53,us-west-2,production
+2024-04,Customer Service,RDS Database,312.18,29.97,282.21,us-east-1,dev
+2024-04,Customer Service,S3 Storage,125.01,27.88,97.13,us-west-2,production
+2024-04,Customer Service,Lambda,69.33,9.71,59.62,us-east-1,production
+2024-04,Customer Service,Data Transfer,79.62,25.8,53.82,us-west-2,production
+2024-04,Customer Service,CloudWatch,37.5,9.3,28.2,us-east-1,production
+2024-04,Customer Service,Load Balancer,59.25,20.86,38.39,us-west-2,production
+2024-04,IT Infrastructure,EC2 Compute,402.58,42.27,360.31,us-east-1,production
+2024-04,IT Infrastructure,EKS Cluster,335.85,83.63,252.22,us-west-2,production
+2024-04,IT Infrastructure,RDS Database,180.04,51.67,128.37,us-west-2,production
+2024-04,IT Infrastructure,S3 Storage,62.43,12.92,49.51,us-east-1,dev
+2024-04,IT Infrastructure,Lambda,28.84,1.73,27.11,us-west-2,production
+2024-04,IT Infrastructure,Data Transfer,57.29,3.84,53.45,us-west-2,production
+2024-04,IT Infrastructure,CloudWatch,21.93,1.86,20.07,us-west-2,staging
+2024-04,IT Infrastructure,Load Balancer,28.33,6.06,22.27,us-east-1,production
+2024-04,Compliance & Risk,EC2 Compute,511.39,160.58,350.81,us-east-1,production
+2024-04,Compliance & Risk,EKS Cluster,312.2,76.49,235.71,us-west-2,production
+2024-04,Compliance & Risk,RDS Database,193.24,21.45,171.79,us-west-2,staging
+2024-04,Compliance & Risk,S3 Storage,69.04,20.16,48.88,us-east-1,production
+2024-04,Compliance & Risk,Lambda,44.38,5.86,38.52,us-west-2,production
+2024-04,Compliance & Risk,Data Transfer,55.41,20.83,34.58,eu-west-1,production
+2024-04,Compliance & Risk,CloudWatch,21.05,2.32,18.73,us-east-1,dev
+2024-04,Compliance & Risk,Load Balancer,30.81,1.88,28.93,us-east-1,production
+2024-05,Finance Automation,EC2 Compute,1181.64,394.67,786.97,us-east-1,production
+2024-05,Finance Automation,EKS Cluster,950.25,307.88,642.37,us-west-2,production
+2024-05,Finance Automation,RDS Database,492.32,36.92,455.4,us-east-1,production
+2024-05,Finance Automation,S3 Storage,172.97,49.99,122.98,us-west-2,production
+2024-05,Finance Automation,Lambda,131.19,20.33,110.86,us-east-1,staging
+2024-05,Finance Automation,Data Transfer,140.02,35.43,104.59,us-west-2,production
+2024-05,Finance Automation,CloudWatch,54.1,19.48,34.62,us-east-1,dev
+2024-05,Finance Automation,Load Balancer,86.95,14.43,72.52,us-east-1,production
+2024-05,HR Operations,EC2 Compute,721.11,243.74,477.37,eu-west-1,staging
+2024-05,HR Operations,EKS Cluster,360.07,67.69,292.38,us-west-2,staging
+2024-05,HR Operations,RDS Database,211.24,35.28,175.96,us-west-2,production
+2024-05,HR Operations,S3 Storage,74.23,9.43,64.8,us-west-2,production
+2024-05,HR Operations,Lambda,40.93,7.24,33.69,us-east-1,production
+2024-05,HR Operations,Data Transfer,60.34,21.9,38.44,us-east-1,production
+2024-05,HR Operations,CloudWatch,24.44,8.85,15.59,us-west-2,production
+2024-05,HR Operations,Load Balancer,33.35,3.5,29.85,eu-west-1,production
+2024-05,Supply Chain,EC2 Compute,963.1,241.74,721.36,us-west-2,production
+2024-05,Supply Chain,EKS Cluster,730.97,78.94,652.03,us-west-2,production
+2024-05,Supply Chain,RDS Database,380.32,26.24,354.08,eu-west-1,staging
+2024-05,Supply Chain,S3 Storage,146.24,52.06,94.18,eu-west-1,production
+2024-05,Supply Chain,Lambda,102.58,28.72,73.86,us-west-2,staging
+2024-05,Supply Chain,Data Transfer,97.72,12.12,85.6,us-west-2,production
+2024-05,Supply Chain,CloudWatch,46.23,3.7,42.53,us-east-1,production
+2024-05,Supply Chain,Load Balancer,72.42,6.74,65.68,us-east-1,dev
+2024-05,Customer Service,EC2 Compute,804.44,213.98,590.46,us-east-1,production
+2024-05,Customer Service,EKS Cluster,587.36,108.66,478.7,us-west-2,production
+2024-05,Customer Service,RDS Database,327.02,25.18,301.84,us-west-2,production
+2024-05,Customer Service,S3 Storage,123.07,9.23,113.84,us-east-1,production
+2024-05,Customer Service,Lambda,101.06,32.54,68.52,us-west-2,production
+2024-05,Customer Service,Data Transfer,80.47,19.07,61.4,us-west-2,staging
+2024-05,Customer Service,CloudWatch,35.84,11.86,23.98,us-east-1,staging
+2024-05,Customer Service,Load Balancer,56.09,18.29,37.8,us-east-1,production
+2024-05,IT Infrastructure,EC2 Compute,530.79,54.14,476.65,us-east-1,staging
+2024-05,IT Infrastructure,EKS Cluster,338.14,20.29,317.85,us-east-1,production
+2024-05,IT Infrastructure,RDS Database,199.74,20.57,179.17,us-east-1,staging
+2024-05,IT Infrastructure,S3 Storage,60.18,13.06,47.12,us-west-2,production
+2024-05,IT Infrastructure,Lambda,36.05,9.3,26.75,us-west-2,production
+2024-05,IT Infrastructure,Data Transfer,48.91,11.15,37.76,us-east-1,production
+2024-05,IT Infrastructure,CloudWatch,19.52,7.18,12.34,us-west-2,production
+2024-05,IT Infrastructure,Load Balancer,32.36,11.58,20.78,us-west-2,dev
+2024-05,Compliance & Risk,EC2 Compute,390.88,58.24,332.64,us-east-1,production
+2024-05,Compliance & Risk,EKS Cluster,321.03,77.69,243.34,us-west-2,production
+2024-05,Compliance & Risk,RDS Database,174.01,52.2,121.81,us-west-2,production
+2024-05,Compliance & Risk,S3 Storage,63.93,10.04,53.89,us-west-2,staging
+2024-05,Compliance & Risk,Lambda,29.63,4.15,25.48,eu-west-1,production
+2024-05,Compliance & Risk,Data Transfer,62.28,12.39,49.89,us-west-2,staging
+2024-05,Compliance & Risk,CloudWatch,18.05,1.39,16.66,us-east-1,production
+2024-05,Compliance & Risk,Load Balancer,30.14,4.22,25.92,eu-west-1,production
+2024-06,Finance Automation,EC2 Compute,1353.57,255.82,1097.75,us-east-1,production
+2024-06,Finance Automation,EKS Cluster,883.74,123.72,760.02,eu-west-1,production
+2024-06,Finance Automation,RDS Database,509.3,61.12,448.18,us-west-2,production
+2024-06,Finance Automation,S3 Storage,182.03,31.31,150.72,us-east-1,production
+2024-06,Finance Automation,Lambda,106.5,32.38,74.12,us-east-1,staging
+2024-06,Finance Automation,Data Transfer,147.97,38.03,109.94,us-west-2,production
+2024-06,Finance Automation,CloudWatch,55.46,17.36,38.1,us-west-2,production
+2024-06,Finance Automation,Load Balancer,85.94,7.82,78.12,us-east-1,production
+2024-06,HR Operations,EC2 Compute,515.57,36.61,478.96,us-east-1,production
+2024-06,HR Operations,EKS Cluster,317.5,99.38,218.12,us-west-2,production
+2024-06,HR Operations,RDS Database,214.51,53.2,161.31,us-west-2,production
+2024-06,HR Operations,S3 Storage,67.37,22.5,44.87,us-east-1,production
+2024-06,HR Operations,Lambda,31.88,4.14,27.74,eu-west-1,production
+2024-06,HR Operations,Data Transfer,58.93,12.67,46.26,us-east-1,staging
+2024-06,HR Operations,CloudWatch,23.18,3.66,19.52,us-west-2,production
+2024-06,HR Operations,Load Balancer,34.71,5.76,28.95,us-west-2,production
+2024-06,Supply Chain,EC2 Compute,780.44,184.96,595.48,us-east-1,staging
+2024-06,Supply Chain,EKS Cluster,679.03,78.77,600.26,us-west-2,production
+2024-06,Supply Chain,RDS Database,453.72,27.22,426.5,eu-west-1,production
+2024-06,Supply Chain,S3 Storage,147.04,33.67,113.37,us-east-1,staging
+2024-06,Supply Chain,Lambda,94.32,15.28,79.04,us-east-1,production
+2024-06,Supply Chain,Data Transfer,119.18,41.12,78.06,us-west-2,staging
+2024-06,Supply Chain,CloudWatch,48.43,10.85,37.58,us-east-1,production
+2024-06,Supply Chain,Load Balancer,59.54,4.17,55.37,us-west-2,production
+2024-06,Customer Service,EC2 Compute,734.06,273.07,460.99,us-west-2,production
+2024-06,Customer Service,EKS Cluster,604.23,187.92,416.31,us-east-1,production
+2024-06,Customer Service,RDS Database,379.99,47.5,332.49,eu-west-1,dev
+2024-06,Customer Service,S3 Storage,117.5,31.14,86.36,us-west-2,production
+2024-06,Customer Service,Lambda,59.0,19.88,39.12,us-east-1,staging
+2024-06,Customer Service,Data Transfer,66.74,12.68,54.06,us-west-2,production
+2024-06,Customer Service,CloudWatch,35.71,6.96,28.75,us-east-1,production
+2024-06,Customer Service,Load Balancer,56.83,19.21,37.62,eu-west-1,production
+2024-06,IT Infrastructure,EC2 Compute,483.58,169.74,313.84,us-west-2,production
+2024-06,IT Infrastructure,EKS Cluster,259.0,66.82,192.18,us-east-1,production
+2024-06,IT Infrastructure,RDS Database,192.8,21.02,171.78,us-west-2,dev
+2024-06,IT Infrastructure,S3 Storage,64.72,7.12,57.6,us-east-1,production
+2024-06,IT Infrastructure,Lambda,39.79,7.84,31.95,us-west-2,production
+2024-06,IT Infrastructure,Data Transfer,46.71,11.49,35.22,us-west-2,production
+2024-06,IT Infrastructure,CloudWatch,18.06,5.51,12.55,us-west-2,dev
+2024-06,IT Infrastructure,Load Balancer,31.87,6.37,25.5,us-west-2,production
+2024-06,Compliance & Risk,EC2 Compute,438.75,70.64,368.11,us-east-1,production
+2024-06,Compliance & Risk,EKS Cluster,270.25,35.67,234.58,us-east-1,staging
+2024-06,Compliance & Risk,RDS Database,180.3,11.18,169.12,us-east-1,production
+2024-06,Compliance & Risk,S3 Storage,62.77,12.99,49.78,us-east-1,staging
+2024-06,Compliance & Risk,Lambda,44.06,5.2,38.86,us-west-2,production
+2024-06,Compliance & Risk,Data Transfer,51.23,3.53,47.7,us-west-2,dev
+2024-06,Compliance & Risk,CloudWatch,20.44,3.15,17.29,us-west-2,production
+2024-06,Compliance & Risk,Load Balancer,28.64,2.84,25.8,eu-west-1,dev
+2024-07,Finance Automation,EC2 Compute,1561.76,312.35,1249.41,us-west-2,production
+2024-07,Finance Automation,EKS Cluster,1030.66,278.28,752.38,us-west-2,production
+2024-07,Finance Automation,RDS Database,625.5,73.18,552.32,us-east-1,dev
+2024-07,Finance Automation,S3 Storage,187.61,15.2,172.41,us-east-1,production
+2024-07,Finance Automation,Lambda,103.35,28.83,74.52,us-east-1,dev
+2024-07,Finance Automation,Data Transfer,158.21,43.51,114.7,us-west-2,production
+2024-07,Finance Automation,CloudWatch,61.38,3.68,57.7,eu-west-1,production
+2024-07,Finance Automation,Load Balancer,97.83,26.71,71.12,us-west-2,production
+2024-07,HR Operations,EC2 Compute,743.49,63.2,680.29,us-east-1,dev
+2024-07,HR Operations,EKS Cluster,365.74,24.14,341.6,eu-west-1,production
+2024-07,HR Operations,RDS Database,252.57,59.86,192.71,us-east-1,staging
+2024-07,HR Operations,S3 Storage,86.61,15.85,70.76,us-west-2,production
+2024-07,HR Operations,Lambda,53.46,16.73,36.73,us-west-2,staging
+2024-07,HR Operations,Data Transfer,72.57,6.53,66.04,us-west-2,production
+2024-07,HR Operations,CloudWatch,24.28,4.39,19.89,us-east-1,production
+2024-07,HR Operations,Load Balancer,33.34,6.6,26.74,us-west-2,production
+2024-07,Supply Chain,EC2 Compute,1364.69,346.63,1018.06,us-west-2,production
+2024-07,Supply Chain,EKS Cluster,871.69,292.02,579.67,us-west-2,production
+2024-07,Supply Chain,RDS Database,401.26,96.7,304.56,us-west-2,production
+2024-07,Supply Chain,S3 Storage,142.7,43.1,99.6,us-east-1,staging
+2024-07,Supply Chain,Lambda,101.45,13.19,88.26,eu-west-1,production
+2024-07,Supply Chain,Data Transfer,125.46,44.91,80.55,us-west-2,production
+2024-07,Supply Chain,CloudWatch,42.81,6.16,36.65,us-west-2,staging
+2024-07,Supply Chain,Load Balancer,69.6,15.87,53.73,us-west-2,production
+2024-07,Customer Service,EC2 Compute,708.32,131.75,576.57,us-west-2,production
+2024-07,Customer Service,EKS Cluster,707.93,194.68,513.25,us-west-2,production
+2024-07,Customer Service,RDS Database,351.59,83.33,268.26,us-west-2,dev
+2024-07,Customer Service,S3 Storage,129.26,27.14,102.12,us-east-1,production
+2024-07,Customer Service,Lambda,71.95,26.19,45.76,us-east-1,staging
+2024-07,Customer Service,Data Transfer,92.15,31.52,60.63,us-west-2,production
+2024-07,Customer Service,CloudWatch,35.71,11.68,24.03,eu-west-1,production
+2024-07,Customer Service,Load Balancer,66.5,8.51,57.99,us-east-1,production
+2024-07,IT Infrastructure,EC2 Compute,453.38,122.41,330.97,us-west-2,production
+2024-07,IT Infrastructure,EKS Cluster,406.31,80.86,325.45,us-east-1,production
+2024-07,IT Infrastructure,RDS Database,215.6,26.3,189.3,us-west-2,production
+2024-07,IT Infrastructure,S3 Storage,72.14,18.9,53.24,us-east-1,production
+2024-07,IT Infrastructure,Lambda,33.36,8.21,25.15,us-west-2,dev
+2024-07,IT Infrastructure,Data Transfer,43.48,4.13,39.35,us-east-1,production
+2024-07,IT Infrastructure,CloudWatch,23.84,6.65,17.19,eu-west-1,production
+2024-07,IT Infrastructure,Load Balancer,30.33,2.55,27.78,us-east-1,production
+2024-07,Compliance & Risk,EC2 Compute,446.13,34.8,411.33,us-east-1,production
+2024-07,Compliance & Risk,EKS Cluster,344.77,54.13,290.64,us-west-2,production
+2024-07,Compliance & Risk,RDS Database,205.76,14.81,190.95,us-east-1,production
+2024-07,Compliance & Risk,S3 Storage,67.96,15.49,52.47,us-east-1,production
+2024-07,Compliance & Risk,Lambda,19.44,3.11,16.33,us-east-1,dev
+2024-07,Compliance & Risk,Data Transfer,57.79,15.49,42.3,us-east-1,staging
+2024-07,Compliance & Risk,CloudWatch,20.74,4.89,15.85,eu-west-1,production
+2024-07,Compliance & Risk,Load Balancer,31.76,8.83,22.93,us-west-2,production
+2024-08,Finance Automation,EC2 Compute,1336.85,401.05,935.8,us-west-2,production
+2024-08,Finance Automation,EKS Cluster,897.66,280.07,617.59,eu-west-1,production
+2024-08,Finance Automation,RDS Database,533.55,201.68,331.87,eu-west-1,production
+2024-08,Finance Automation,S3 Storage,198.19,65.01,133.18,us-west-2,production
+2024-08,Finance Automation,Lambda,115.73,10.65,105.08,us-east-1,staging
+2024-08,Finance Automation,Data Transfer,148.68,42.23,106.45,us-west-2,production
+2024-08,Finance Automation,CloudWatch,58.8,4.65,54.15,eu-west-1,production
+2024-08,Finance Automation,Load Balancer,80.05,12.09,67.96,us-west-2,production
+2024-08,HR Operations,EC2 Compute,625.53,220.81,404.72,us-west-2,dev
+2024-08,HR Operations,EKS Cluster,560.61,185.56,375.05,us-west-2,dev
+2024-08,HR Operations,RDS Database,252.2,44.39,207.81,us-east-1,staging
+2024-08,HR Operations,S3 Storage,85.88,27.14,58.74,us-east-1,production
+2024-08,HR Operations,Lambda,45.26,4.84,40.42,us-east-1,production
+2024-08,HR Operations,Data Transfer,59.24,22.04,37.2,us-east-1,staging
+2024-08,HR Operations,CloudWatch,26.41,6.6,19.81,us-east-1,production
+2024-08,HR Operations,Load Balancer,41.84,9.04,32.8,us-west-2,production
+2024-08,Supply Chain,EC2 Compute,954.25,56.3,897.95,us-west-2,dev
+2024-08,Supply Chain,EKS Cluster,773.37,178.65,594.72,eu-west-1,production
+2024-08,Supply Chain,RDS Database,461.73,90.04,371.69,us-west-2,production
+2024-08,Supply Chain,S3 Storage,142.6,17.25,125.35,us-east-1,production
+2024-08,Supply Chain,Lambda,82.14,5.67,76.47,eu-west-1,production
+2024-08,Supply Chain,Data Transfer,149.89,41.82,108.07,eu-west-1,production
+2024-08,Supply Chain,CloudWatch,46.7,12.98,33.72,us-west-2,production
+2024-08,Supply Chain,Load Balancer,69.51,26.34,43.17,us-east-1,production
+2024-08,Customer Service,EC2 Compute,1026.85,230.01,796.84,us-west-2,production
+2024-08,Customer Service,EKS Cluster,531.94,182.46,349.48,us-west-2,production
+2024-08,Customer Service,RDS Database,340.66,110.03,230.63,us-east-1,staging
+2024-08,Customer Service,S3 Storage,117.79,6.36,111.43,us-west-2,production
+2024-08,Customer Service,Lambda,61.3,13.92,47.38,us-west-2,production
+2024-08,Customer Service,Data Transfer,106.11,13.79,92.32,eu-west-1,staging
+2024-08,Customer Service,CloudWatch,39.64,3.41,36.23,us-west-2,production
+2024-08,Customer Service,Load Balancer,61.51,20.24,41.27,us-west-2,production
+2024-08,IT Infrastructure,EC2 Compute,448.33,131.36,316.97,us-west-2,production
+2024-08,IT Infrastructure,EKS Cluster,321.42,57.86,263.56,us-west-2,staging
+2024-08,IT Infrastructure,RDS Database,197.62,54.74,142.88,us-west-2,production
+2024-08,IT Infrastructure,S3 Storage,75.66,24.74,50.92,us-west-2,dev
+2024-08,IT Infrastructure,Lambda,60.71,16.27,44.44,us-east-1,production
+2024-08,IT Infrastructure,Data Transfer,50.62,12.81,37.81,us-west-2,production
+2024-08,IT Infrastructure,CloudWatch,22.65,4.96,17.69,us-east-1,production
+2024-08,IT Infrastructure,Load Balancer,30.5,2.38,28.12,us-east-1,production
+2024-08,Compliance & Risk,EC2 Compute,369.06,60.89,308.17,us-east-1,production
+2024-08,Compliance & Risk,EKS Cluster,317.67,35.26,282.41,us-west-2,production
+2024-08,Compliance & Risk,RDS Database,228.61,31.32,197.29,us-west-2,production
+2024-08,Compliance & Risk,S3 Storage,74.51,27.49,47.02,us-west-2,staging
+2024-08,Compliance & Risk,Lambda,25.42,3.0,22.42,us-west-2,production
+2024-08,Compliance & Risk,Data Transfer,68.22,20.88,47.34,us-east-1,production
+2024-08,Compliance & Risk,CloudWatch,21.19,7.9,13.29,us-east-1,production
+2024-08,Compliance & Risk,Load Balancer,35.19,10.45,24.74,us-east-1,production
+2024-09,Finance Automation,EC2 Compute,1296.52,461.56,834.96,us-west-2,production
+2024-09,Finance Automation,EKS Cluster,921.09,177.77,743.32,us-west-2,production
+2024-09,Finance Automation,RDS Database,584.19,200.38,383.81,us-east-1,production
+2024-09,Finance Automation,S3 Storage,202.01,64.44,137.57,us-east-1,staging
+2024-09,Finance Automation,Lambda,107.64,32.18,75.46,us-west-2,staging
+2024-09,Finance Automation,Data Transfer,165.31,47.94,117.37,us-east-1,production
+2024-09,Finance Automation,CloudWatch,63.46,23.8,39.66,eu-west-1,production
+2024-09,Finance Automation,Load Balancer,81.71,8.5,73.21,us-west-2,staging
+2024-09,HR Operations,EC2 Compute,538.13,116.77,421.36,us-east-1,staging
+2024-09,HR Operations,EKS Cluster,469.85,107.6,362.25,us-east-1,production
+2024-09,HR Operations,RDS Database,266.41,73.8,192.61,us-east-1,production
+2024-09,HR Operations,S3 Storage,80.06,24.1,55.96,us-west-2,production
+2024-09,HR Operations,Lambda,45.63,14.33,31.3,us-west-2,production
+2024-09,HR Operations,Data Transfer,59.3,17.32,41.98,us-east-1,production
+2024-09,HR Operations,CloudWatch,28.84,6.72,22.12,us-west-2,staging
+2024-09,HR Operations,Load Balancer,37.47,2.32,35.15,us-east-1,production
+2024-09,Supply Chain,EC2 Compute,1066.58,168.52,898.06,us-west-2,production
+2024-09,Supply Chain,EKS Cluster,845.27,286.55,558.72,eu-west-1,production
+2024-09,Supply Chain,RDS Database,531.84,181.89,349.95,us-east-1,production
+2024-09,Supply Chain,S3 Storage,157.74,29.34,128.4,us-east-1,production
+2024-09,Supply Chain,Lambda,54.6,17.04,37.56,us-west-2,production
+2024-09,Supply Chain,Data Transfer,148.21,30.98,117.23,us-east-1,production
+2024-09,Supply Chain,CloudWatch,53.89,12.66,41.23,us-east-1,production
+2024-09,Supply Chain,Load Balancer,85.81,27.12,58.69,us-west-2,staging
+2024-09,Customer Service,EC2 Compute,760.7,52.49,708.21,us-west-2,staging
+2024-09,Customer Service,EKS Cluster,658.17,186.92,471.25,us-east-1,production
+2024-09,Customer Service,RDS Database,347.4,54.89,292.51,us-west-2,production
+2024-09,Customer Service,S3 Storage,130.41,16.04,114.37,us-east-1,staging
+2024-09,Customer Service,Lambda,53.73,13.97,39.76,us-east-1,production
+2024-09,Customer Service,Data Transfer,130.31,24.11,106.2,us-east-1,production
+2024-09,Customer Service,CloudWatch,44.92,4.99,39.93,us-west-2,production
+2024-09,Customer Service,Load Balancer,67.73,4.0,63.73,us-west-2,staging
+2024-09,IT Infrastructure,EC2 Compute,508.17,75.72,432.45,eu-west-1,production
+2024-09,IT Infrastructure,EKS Cluster,288.17,55.33,232.84,us-east-1,staging
+2024-09,IT Infrastructure,RDS Database,221.13,44.45,176.68,us-west-2,production
+2024-09,IT Infrastructure,S3 Storage,71.21,5.48,65.73,us-east-1,production
+2024-09,IT Infrastructure,Lambda,56.78,17.2,39.58,us-west-2,production
+2024-09,IT Infrastructure,Data Transfer,52.76,5.01,47.75,us-east-1,production
+2024-09,IT Infrastructure,CloudWatch,22.29,3.03,19.26,us-west-2,dev
+2024-09,IT Infrastructure,Load Balancer,32.43,4.28,28.15,us-west-2,staging
+2024-09,Compliance & Risk,EC2 Compute,628.76,45.27,583.49,us-west-2,production
+2024-09,Compliance & Risk,EKS Cluster,353.9,25.13,328.77,eu-west-1,production
+2024-09,Compliance & Risk,RDS Database,171.21,28.25,142.96,us-east-1,production
+2024-09,Compliance & Risk,S3 Storage,76.39,20.55,55.84,eu-west-1,production
+2024-09,Compliance & Risk,Lambda,24.45,7.11,17.34,eu-west-1,production
+2024-09,Compliance & Risk,Data Transfer,52.15,13.87,38.28,us-west-2,production
+2024-09,Compliance & Risk,CloudWatch,23.05,5.79,17.26,us-west-2,production
+2024-09,Compliance & Risk,Load Balancer,32.93,3.29,29.64,us-west-2,production
+2024-10,Finance Automation,EC2 Compute,1462.15,326.06,1136.09,us-west-2,staging
+2024-10,Finance Automation,EKS Cluster,1185.17,342.51,842.66,us-west-2,staging
+2024-10,Finance Automation,RDS Database,564.76,113.52,451.24,us-west-2,production
+2024-10,Finance Automation,S3 Storage,209.22,75.74,133.48,us-east-1,production
+2024-10,Finance Automation,Lambda,46.75,12.39,34.36,us-west-2,production
+2024-10,Finance Automation,Data Transfer,136.85,29.97,106.88,us-east-1,production
+2024-10,Finance Automation,CloudWatch,61.37,6.38,54.99,us-west-2,staging
+2024-10,Finance Automation,Load Balancer,87.31,19.3,68.01,us-west-2,staging
+2024-10,HR Operations,EC2 Compute,573.03,214.89,358.14,us-east-1,production
+2024-10,HR Operations,EKS Cluster,362.66,26.11,336.55,us-west-2,dev
+2024-10,HR Operations,RDS Database,255.46,21.71,233.75,us-east-1,staging
+2024-10,HR Operations,S3 Storage,103.53,18.22,85.31,us-east-1,dev
+2024-10,HR Operations,Lambda,50.35,7.3,43.05,us-east-1,production
+2024-10,HR Operations,Data Transfer,54.21,14.04,40.17,us-east-1,production
+2024-10,HR Operations,CloudWatch,27.47,2.8,24.67,us-east-1,staging
+2024-10,HR Operations,Load Balancer,43.41,6.73,36.68,us-east-1,dev
+2024-10,Supply Chain,EC2 Compute,1041.98,115.66,926.32,us-east-1,production
+2024-10,Supply Chain,EKS Cluster,778.76,77.88,700.88,us-west-2,production
+2024-10,Supply Chain,RDS Database,476.12,175.69,300.43,us-west-2,dev
+2024-10,Supply Chain,S3 Storage,175.24,47.31,127.93,us-east-1,production
+2024-10,Supply Chain,Lambda,85.56,8.9,76.66,us-west-2,production
+2024-10,Supply Chain,Data Transfer,145.46,32.58,112.88,us-east-1,staging
+2024-10,Supply Chain,CloudWatch,50.75,5.68,45.07,us-east-1,staging
+2024-10,Supply Chain,Load Balancer,71.57,16.32,55.25,us-east-1,production
+2024-10,Customer Service,EC2 Compute,1122.28,226.7,895.58,us-west-2,production
+2024-10,Customer Service,EKS Cluster,660.11,213.22,446.89,us-west-2,production
+2024-10,Customer Service,RDS Database,414.95,34.44,380.51,us-west-2,production
+2024-10,Customer Service,S3 Storage,137.58,22.7,114.88,us-west-2,staging
+2024-10,Customer Service,Lambda,95.79,15.9,79.89,us-east-1,production
+2024-10,Customer Service,Data Transfer,127.34,47.5,79.84,us-east-1,production
+2024-10,Customer Service,CloudWatch,38.14,10.53,27.61,us-west-2,production
+2024-10,Customer Service,Load Balancer,66.94,22.22,44.72,us-west-2,staging
+2024-10,IT Infrastructure,EC2 Compute,583.04,162.67,420.37,us-west-2,production
+2024-10,IT Infrastructure,EKS Cluster,311.92,37.43,274.49,us-west-2,production
+2024-10,IT Infrastructure,RDS Database,224.88,75.78,149.1,us-east-1,staging
+2024-10,IT Infrastructure,S3 Storage,75.07,20.19,54.88,us-west-2,dev
+2024-10,IT Infrastructure,Lambda,47.66,4.15,43.51,us-west-2,production
+2024-10,IT Infrastructure,Data Transfer,74.01,24.79,49.22,us-west-2,production
+2024-10,IT Infrastructure,CloudWatch,22.07,6.49,15.58,eu-west-1,production
+2024-10,IT Infrastructure,Load Balancer,33.33,11.1,22.23,us-west-2,dev
+2024-10,Compliance & Risk,EC2 Compute,571.02,31.98,539.04,eu-west-1,staging
+2024-10,Compliance & Risk,EKS Cluster,399.47,60.32,339.15,us-east-1,production
+2024-10,Compliance & Risk,RDS Database,222.35,18.23,204.12,us-west-2,production
+2024-10,Compliance & Risk,S3 Storage,81.24,16.65,64.59,us-west-2,production
+2024-10,Compliance & Risk,Lambda,30.05,8.86,21.19,us-west-2,dev
+2024-10,Compliance & Risk,Data Transfer,48.37,16.01,32.36,us-east-1,production
+2024-10,Compliance & Risk,CloudWatch,22.66,7.07,15.59,us-west-2,production
+2024-10,Compliance & Risk,Load Balancer,33.09,12.51,20.58,us-east-1,production
+2024-11,Finance Automation,EC2 Compute,1195.23,96.81,1098.42,eu-west-1,production
+2024-11,Finance Automation,EKS Cluster,1089.25,352.92,736.33,us-east-1,production
+2024-11,Finance Automation,RDS Database,481.91,74.7,407.21,us-west-2,staging
+2024-11,Finance Automation,S3 Storage,218.97,54.52,164.45,us-east-1,production
+2024-11,Finance Automation,Lambda,162.96,39.93,123.03,us-east-1,production
+2024-11,Finance Automation,Data Transfer,196.31,42.99,153.32,us-west-2,production
+2024-11,Finance Automation,CloudWatch,73.36,26.7,46.66,us-east-1,staging
+2024-11,Finance Automation,Load Balancer,94.13,20.43,73.7,us-east-1,production
+2024-11,HR Operations,EC2 Compute,532.7,109.74,422.96,us-west-2,production
+2024-11,HR Operations,EKS Cluster,381.95,53.85,328.1,eu-west-1,production
+2024-11,HR Operations,RDS Database,233.87,58.94,174.93,us-west-2,production
+2024-11,HR Operations,S3 Storage,90.39,19.89,70.5,us-west-2,production
+2024-11,HR Operations,Lambda,45.93,14.47,31.46,us-east-1,production
+2024-11,HR Operations,Data Transfer,62.34,9.16,53.18,eu-west-1,production
+2024-11,HR Operations,CloudWatch,28.17,2.48,25.69,us-west-2,production
+2024-11,HR Operations,Load Balancer,38.22,12.92,25.3,us-west-2,staging
+2024-11,Supply Chain,EC2 Compute,983.54,185.89,797.65,us-west-2,dev
+2024-11,Supply Chain,EKS Cluster,680.9,194.74,486.16,us-east-1,production
+2024-11,Supply Chain,RDS Database,464.45,62.7,401.75,us-west-2,production
+2024-11,Supply Chain,S3 Storage,167.63,46.43,121.2,us-west-2,production
+2024-11,Supply Chain,Lambda,42.16,3.79,38.37,us-west-2,staging
+2024-11,Supply Chain,Data Transfer,114.93,8.39,106.54,us-west-2,production
+2024-11,Supply Chain,CloudWatch,51.51,14.11,37.4,us-west-2,production
+2024-11,Supply Chain,Load Balancer,78.14,4.14,74.0,us-east-1,dev
+2024-11,Customer Service,EC2 Compute,1080.56,312.28,768.28,us-west-2,dev
+2024-11,Customer Service,EKS Cluster,704.22,50.7,653.52,us-west-2,production
+2024-11,Customer Service,RDS Database,394.23,57.95,336.28,us-west-2,production
+2024-11,Customer Service,S3 Storage,134.74,8.62,126.12,us-west-2,production
+2024-11,Customer Service,Lambda,98.29,26.05,72.24,us-east-1,production
+2024-11,Customer Service,Data Transfer,91.71,17.61,74.1,us-east-1,production
+2024-11,Customer Service,CloudWatch,44.23,8.71,35.52,us-east-1,staging
+2024-11,Customer Service,Load Balancer,57.78,19.24,38.54,eu-west-1,production
+2024-11,IT Infrastructure,EC2 Compute,585.59,100.72,484.87,us-east-1,staging
+2024-11,IT Infrastructure,EKS Cluster,298.84,82.78,216.06,us-west-2,production
+2024-11,IT Infrastructure,RDS Database,200.17,68.86,131.31,us-west-2,production
+2024-11,IT Infrastructure,S3 Storage,74.83,4.34,70.49,us-east-1,production
+2024-11,IT Infrastructure,Lambda,35.65,6.6,29.05,us-west-2,production
+2024-11,IT Infrastructure,Data Transfer,56.72,14.18,42.54,us-west-2,production
+2024-11,IT Infrastructure,CloudWatch,23.14,6.41,16.73,us-west-2,production
+2024-11,IT Infrastructure,Load Balancer,35.02,2.07,32.95,us-west-2,dev
+2024-11,Compliance & Risk,EC2 Compute,472.15,28.33,443.82,us-west-2,production
+2024-11,Compliance & Risk,EKS Cluster,373.23,21.65,351.58,us-east-1,production
+2024-11,Compliance & Risk,RDS Database,229.45,20.19,209.26,eu-west-1,production
+2024-11,Compliance & Risk,S3 Storage,74.52,25.56,48.96,us-east-1,staging
+2024-11,Compliance & Risk,Lambda,40.37,7.15,33.22,us-west-2,production
+2024-11,Compliance & Risk,Data Transfer,62.49,6.31,56.18,us-east-1,production
+2024-11,Compliance & Risk,CloudWatch,24.07,4.69,19.38,us-west-2,production
+2024-11,Compliance & Risk,Load Balancer,35.7,4.07,31.63,us-west-2,production
