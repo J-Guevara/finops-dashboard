@@ -125,5 +125,5 @@ adopted as a standard QBR template, contributing to improved gross retention acr
 ## Author
 
 **Josue Guevara**  
-Principal Technical Account Manager | Cloud & AI Automation  
+Technical Account Manager II| Cloud & AI Automation  
 [LinkedIn](https://www.linkedin.com/in/jguevara2/) | San Diego, CA
